@@ -22,7 +22,7 @@
 #baner{
 	background: rgb(94, 55, 42);
   width: 100%;
-	height: 227px;
+	height: 221px;
 	text-align: center;
 	float: left;
 }
@@ -30,14 +30,14 @@
 #lewy{
 	float: left;
 		background-color: lightgray;
-		width: 18%;
+		width: 19%;
 		min-height: 711px;
 		
 	
 }
 #srodkowy{
 	float: left;
-		width: 65%;
+		width: 64%;
 }
 #prawy{
 	float: left;
